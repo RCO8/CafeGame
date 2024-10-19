@@ -26,7 +26,7 @@
 <h4>사용한 기술</h4>
 <ul>
   <li>상태머신</li>
-  <li>Raycast</li>
+  <li><a href="https://github.com/RCO8/CafeGame/blob/main/MDfiles/TechStacks/Raycast.md">Raycast</a></li>
   <li>Scriptable Objective</li>
 </ul>
 
