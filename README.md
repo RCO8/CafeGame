@@ -27,7 +27,7 @@
 <ul>
   <li><a href="https://github.com/RCO8/CafeGame/blob/main/MDfiles/TechStacks/StateMachine.md">상태머신</a></li>
   <li><a href="https://github.com/RCO8/CafeGame/blob/main/MDfiles/TechStacks/Raycast.md">Raycast</a></li>
-  <li>Scriptable Objective</li>
+  <li><a href="https://github.com/RCO8/CafeGame/blob/main/MDfiles/TechStacks/ScriptableObjective.md">Scriptable Objective</a></li>
 </ul>
 
 <hr/>
