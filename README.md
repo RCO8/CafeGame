@@ -37,10 +37,3 @@
   <li><a href="https://github.com/RCO8/CafeGame/blob/main/MDfiles/TechStacks/ScriptableObjective.md">Scriptable Objective</a></li>
 </ul>
 
-<hr/>
-<h4>트러블슈팅</h4>
-<ul>
-  <li>손님 자리 찾을 때 경로를 못찾음</li>
-  <li>손님이 대기할때 질서를 겹처서 대기</li>
-  <li>손님의 주문을 뒷사람이 받는 경우</li>
-</ul>
