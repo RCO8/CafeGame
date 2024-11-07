@@ -11,7 +11,7 @@
 
 
 
-동영상
+<a href="https://youtu.be/_9BfScT5M40">🎥시현영상</a>
 
 <hr/>
 <table>
