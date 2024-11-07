@@ -17,3 +17,5 @@
 </table>
 
 ![{3D23523D-1840-4961-814E-7934ADA0E6F9}](https://github.com/user-attachments/assets/c37c9bc7-bb75-41d7-a77f-7fc1a2990d7a)
+
+<a href="https://github.com/RCO8/CafeGame/tree/main/ScriptableObjective">스크립트 뷰</a>
